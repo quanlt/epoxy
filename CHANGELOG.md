@@ -1,3 +1,7 @@
+# 3.3.1 (March 11, 2019)
+- Change Timer interface to match Trace class https://github.com/airbnb/epoxy/pull/671
+- Disabled the auto-detach behavior on Carousels by default (https://github.com/airbnb/epoxy/pull/688)
+
 # 3.3.0 (Feb 5, 2019)
 - **Fixed** Two issues related to the recent EpoxyModelGroup changes (https://github.com/airbnb/epoxy/pull/676)
 
