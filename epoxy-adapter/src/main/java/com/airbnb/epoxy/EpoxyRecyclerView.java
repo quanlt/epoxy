@@ -225,6 +225,10 @@ public class EpoxyRecyclerView extends RecyclerView {
     }
   }
 
+  public EpoxyController getEpoxyController() {
+    return epoxyController;
+  }
+
   /**
    * Create a new {@link androidx.recyclerview.widget.RecyclerView.LayoutManager}
    * instance to use for this RecyclerView.
